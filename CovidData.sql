@@ -1,4 +1,4 @@
---DATA obtained from OurWorldinData (https://ourworldindata.org/covid-deaths) 
+--RAW DATA obtained from OurWorldinData (https://ourworldindata.org/covid-deaths) 
 
 SELECT *
 FROM [PortfolioProject]..CovidDeaths
