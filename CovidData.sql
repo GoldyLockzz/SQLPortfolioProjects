@@ -32,7 +32,7 @@ ORDER BY TotalDeathCount DESC
 
 
 
---WorldWinde
+--WorldWide
 SELECT
 	--date,
 	sum(new_cases) as total_cases,
